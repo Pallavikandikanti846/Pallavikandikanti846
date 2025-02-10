@@ -14,7 +14,7 @@ This is my GitHub Portofolio. It has all the content related to my course.
 - Markdown
 
 You can find me on:
-> LinkedIn
+> LinkedIn:
 [https://www.linkedin.com/in/kandikanti-pallavi/](https://www.linkedin.com/in/kandikanti-pallavi/)
 
 <!--
