@@ -2,7 +2,7 @@
 
 ### This is Pallavi kandikanti😊
 
-I am a student of Humber College, Toronto. Enrolled in *** Web Development*** program.
+I am a student of Humber College, Toronto. Enrolled in ***Web Development*** program.
 
 Passionate individual who loves to develop web sites😍
 
