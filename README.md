@@ -13,6 +13,10 @@ This is my GitHub Portofolio. It has all the content related to my course.
 - MySQL
 - Markdown
 
+You can find me on:
+> LinkedIn
+[https://www.linkedin.com/in/kandikanti-pallavi/](https://www.linkedin.com/in/kandikanti-pallavi/)
+
 <!--
 **Pallavikandikanti846/Pallavikandikanti846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
