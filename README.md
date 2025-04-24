@@ -1,33 +1,13 @@
-## Hi there 👋 
+# 👋 Hi, I’m **Pallavi Kandikanti**
 
-### This is Pallavi kandikanti😊
+🎓 Web Development student at Humber College, Toronto  
+💻 Passionate about building beautiful and functional websites  
 
-I am a student of Humber College, Toronto. Enrolled in ***Web Development*** program.
+## 📂 GitHub Portfolio Includes:
+- HTML, CSS, JavaScript  
+- C# and .NET  
+- MySQL  
+- Markdown  
 
-Passionate individual who loves to develop web sites😍
-
-This is my GitHub Portofolio. It has all the content related to my course.
-
-- HTML, CSS, JS
-- C#
-- MySQL
-- Markdown
-
-You can find me on:
-> LinkedIn:
-[https://www.linkedin.com/in/kandikanti-pallavi/](https://www.linkedin.com/in/kandikanti-pallavi/)
-
-<!--
-**Pallavikandikanti846/Pallavikandikanti846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/kandikanti-pallavi/)
