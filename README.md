@@ -1,3 +1,4 @@
+![Profile Banner](Profile_Banner.png)
 # 👋 Hi, I’m **Pallavi Kandikanti**
 
 🎓 Web Development student at Humber College, Toronto  
